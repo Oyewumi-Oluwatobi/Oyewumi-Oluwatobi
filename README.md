@@ -5,15 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oyewumi-oluwatobi&label=Profile%20views&color=0e75b6&style=flat" alt="oyewumi-oluwatobi" /> </p>
 
-- 🔭 I’m currently working on **YOLO v5 for external disease classification in Cattles**
+🎓 MSc Data Analytics & Business Intelligence | Babcock University (IN PROGRESS)
+💻 BSc Computer Science | FUNAAB
 
-- 🌱 I’m currently learning **AI development**
+🔭 Currently working on: Machine Learning & AI projects
+🌱 Currently learning: Advanced AI development & cloud deployment
+💼 Open to: Data Analyst | Data Scientist | Business Intelligence roles
+📍 Lagos, Nigeria | Open to Remote & Relocation
 
-- 👯 I’m looking to collaborate on **Anything**
+💬 Ask me about: Python | R | SQL | Machine Learning | Power BI
+📫 Reach me: tobioyewumi@gmail.com
 
-- 💬 Ask me about **Data Science/Analytics**
-
-- 📫 How to reach me **tobioyeewumi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
